@@ -19,7 +19,7 @@ def math_operator():
     if operation =="division":
         result=numbers1/numbers2
     else
-         result = number1=number2
+         result = numbers1-numbers2
     return result
 
 app.run(debug=True)
